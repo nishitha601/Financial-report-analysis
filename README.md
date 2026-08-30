@@ -3,7 +3,7 @@
 A modern, client-side financial report analysis web application built with React, TypeScript, and Vite. Upload CSV or XLSX financial statements or use built-in demo data to instantly generate executive financial summaries, key performance metrics, interactive visual charts, and automated insights — 100% in the browser with no backend, no database, and no API keys required.
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Render-brightgreen?style=for-the-badge&logo=render)](https://financial-report-analyzer-6ybb.onrender.com/)
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/gouthamnaik13/financial-report-analyzer)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/nishitha601/Financial-report-analysis)
 
 ---
 
@@ -81,10 +81,10 @@ Q4 2024,3250000,2490000,760000,28600000,11200000,17400000
 
 ```bash
 # Clone the repository
-git clone https://github.com/gouthamnaik13/financial-report-analyzer.git
+git clone https://github.com/nishitha601/Financial-report-analysis.git
 
 # Navigate to the project directory
-cd financial-report-analyzer
+cd Financial-report-analysis
 
 # Install dependencies
 npm install
@@ -118,7 +118,7 @@ The project is deployed on **Render** as a Static Site.
 - **Publish Directory**: `dist`
 
 ### Setting Up on Render:
-1. Connect the GitHub repository: [`https://github.com/gouthamnaik13/financial-report-analyzer`](https://github.com/gouthamnaik13/financial-report-analyzer)
+1. Connect the GitHub repository: [`https://github.com/nishitha601/Financial-report-analysis`](https://github.com/nishitha601/Financial-report-analysis)
 2. Select **Static Site**.
 3. Set the **Build Command** to `npm install && npm run build`.
 4. Set the **Publish Directory** to `dist`.
@@ -129,7 +129,7 @@ The project is deployed on **Render** as a Static Site.
 ## 📁 Project Structure
 
 ```
-financial-report-analyzer/
+Financial-report-analysis/
 ├── public/
 │   ├── favicon.svg          # Custom favicon
 │   └── icons.svg
@@ -155,4 +155,4 @@ financial-report-analyzer/
 
 ## 📄 License
 
-MIT License © 2024 [Financial Report Analyzer](https://github.com/gouthamnaik13/financial-report-analyzer)
+MIT License © 2024 [Financial Report Analyzer](https://github.com/nishitha601/Financial-report-analysis)
